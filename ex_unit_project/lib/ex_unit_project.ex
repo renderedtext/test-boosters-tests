@@ -1,0 +1,2 @@
+defmodule ExUnitProject do
+end
