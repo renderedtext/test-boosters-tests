@@ -6,4 +6,4 @@ Find out more about [Test Boosters](https://github.com/renderedtext/test-booster
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](LICENSE).
+This is available as open source under the terms of the [MIT License](LICENSE).
