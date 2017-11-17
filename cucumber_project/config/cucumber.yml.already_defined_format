@@ -1,1 +1,1 @@
-default: --format html --out="~/cucumber_report.html"
+default: --format html --out="cucumber_report.html"
